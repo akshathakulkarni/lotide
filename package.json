@@ -1,0 +1,19 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assertEqual.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshathakulkarni/lotide.git"
+  },
+  "author": "Akshatha Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshathakulkarni/lotide/issues"
+  },
+  "homepage": "https://github.com/akshathakulkarni/lotide#readme"
+}
