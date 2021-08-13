@@ -47,3 +47,5 @@ assertArraysEqual(map(stringArray, str => str[0]),['1', '2', '4', '6']);
 const numArray = [12, 23, 34, 56];
 assertArraysEqual(map(numArray, num => num * 2),[ 24, 46, 68, 112 ]);
 
+module.exports = map;
+
